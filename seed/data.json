@@ -1,0 +1,74 @@
+[
+  {
+    "topicNum": 0,
+    "title": "haunt",
+    "tabooWords": [
+      "halloween",
+      "haunted",
+      "scrooge",
+      "haunting",
+      "ghosts",
+      "scare"
+    ]
+  },
+  {
+    "topicNum": 1,
+    "title": "captured",
+    "tabooWords": [
+      "privateer",
+      "schooner",
+      "sloop",
+      "brig",
+      "tortured",
+      "prisoner"
+    ]
+  },
+  {
+    "topicNum": 2,
+    "title": "gateway",
+    "tabooWords": [
+      "router",
+      "raceway",
+      "protocol",
+      "arch",
+      "routing",
+      "motorway"
+    ]
+  },
+  {
+    "topicNum": 3,
+    "title": "hoof",
+    "tabooWords": [
+      "cloven",
+      "navicular",
+      "pastern",
+      "hooves",
+      "lameness",
+      "fetlock"
+    ]
+  },
+  {
+    "topicNum": 4,
+    "title": "greedy",
+    "tabooWords": [
+      "gluttonous",
+      "reductionism",
+      "smurf",
+      "embedding",
+      "algorithm",
+      "coloring"
+    ]
+  },
+  {
+    "topicNum": 5,
+    "title": "cat",
+    "tabooWords": [
+      "felis",
+      "feline",
+      "burglar",
+      "cats",
+      "kitten",
+      "mouse"
+    ]
+  }
+]
